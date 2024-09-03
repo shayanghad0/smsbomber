@@ -32,6 +32,3 @@ Give a ⭐️ if this project helped you!
 
 You Can Give Me Coffe to donate me
 * Coffe bede: [@shayanghad0](https://www.coffeebede.com/shayanghad0)
-* 
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
