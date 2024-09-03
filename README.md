@@ -16,7 +16,9 @@
 ## Install
 
 ```sh
-npm install
+git clone https://github.com/shayanghad0/smsbomber
+cd smsbomber
+go run sms.go
 ```
 
 ## Author
@@ -31,5 +33,8 @@ npm install
 
 Give a ⭐️ if this project helped you!
 
+You Can Give Me Coffe to donate me
+* Coffe bede: [@shayanghad0](https://www.coffeebede.com/shayanghad0)
+* 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
