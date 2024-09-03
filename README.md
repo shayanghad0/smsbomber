@@ -1,8 +1,5 @@
 <h1 align="center">Welcome to sms bomber 👋</h1>
 <p>
-  <a href="https://www.npmjs.com/package/sms bomber" target="_blank">
-    <img alt="Version" src="https://img.shields.io/npm/v/sms bomber.svg">
-  </a>
   <a href="#" target="_blank">
     <img alt="License: Copyright © 2024 Vortex Team. This project is MIT licensed." src="https://img.shields.io/badge/License-Copyright © 2024 Vortex Team. This project is MIT licensed.-yellow.svg" />
   </a>
