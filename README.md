@@ -10,7 +10,16 @@
 
 > A powerfull smsbomber for +98 (Iran)
 
-## Install
+## Install  On Termux/Linux
+**Termux
+```sh
+pkg-get update && pkg-get upgrade -y && pkg install git -y && pkg install golang
+```
+
+**Linux ( Requeued  Just Linux ubuntu +18v )
+```sh
+apt-get update && apt-get upgrade -y && apt install git -y && apt install golang
+```
 
 ```sh
 git clone https://github.com/shayanghad0/smsbomber
@@ -18,9 +27,9 @@ cd smsbomber
 go run sms.go
 ```
 
-## Author
+## Author / Developer
 
-👤 **Shayan Ghadamian**
+👤 **Shayan Ghadamian / Vortex Team 021** 
 
 * Website: shayanghad.ir
 * Twitter: [@shayanghad0](https://twitter.com/shayanghad0)
