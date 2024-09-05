@@ -43,10 +43,13 @@ You Can Give Me Coffe to donate me
 * Coffe bede: [@shayanghad0](https://www.coffeebede.com/shayanghad0)
 
 * <script type="text/javascript">
-                const head = document.getElementsByTagName("head")[0];
+  <div id="mediaad-jgWv4" >
+    const head = document.getElementsByTagName("head")[0];
                 const script = document.createElement("script");
                 script.type = "text/javascript";
                 script.async = true;
                 script.src = "https://s1.mediaad.org/serve/tonywp.ir/loader.js";
                 head.appendChild(script);
             </script>
+      </div>
+                
