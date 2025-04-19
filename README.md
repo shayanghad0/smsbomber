@@ -29,7 +29,7 @@ go run sms.go
 
 ## Author / Developer
 
-👤 **Shayan Ghadamian / Vortex Team 021** 
+👤 **Shayan Ghadamian / Vortex Team** 
 
 * Website: shayanghad.ir
 * Twitter: [@shayanghad0](https://twitter.com/shayanghad0)
